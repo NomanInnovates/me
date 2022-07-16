@@ -166,13 +166,9 @@ p {
   position:fixed;
   top:0px;
   z-index:999;
-  /* border-right:20px solid white;
-  border-left:20px solid white; */
   transition:all 0.2s ease-in-out;
 }
-header.nav-up .wrapper {
-  top:-80px;
-}
+
 
 a.logo {
   text-transform:uppercase;
@@ -355,10 +351,10 @@ section.sayhello {
   background:#fff;
   position:relative;
   text-align:center;
-  padding-top:30px;
-  padding-bottom:0px;
-  border-right:20px solid white;
-  border-left:20px solid white;
+  padding:30px;
+ 
+  /* border-right:20px solid white;
+  border-left:20px solid white; */
 }
 section.sayhello h1 {
   color:#000;
