@@ -313,6 +313,7 @@ section.about img {
   display:block;
   margin:auto;
   height: 290px;
+  width: 290px;
   border-radius: 50%;
 }
 section.about h2 {
