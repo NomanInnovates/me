@@ -217,7 +217,8 @@ ul.menu li a:hover {
   }
 }
 section.intro {
-  background:url("https://cdn.xxl.thumbs.canstockphoto.com/dark-stormy-sky-with-rain-and-clouds-4k-digital-animation-of-dark-stormy-sky-with-rain-and-clouds-footage_csp76245525.jpg") no-repeat top center;
+  background:url("../img/cloudz.png") no-repeat top center;
+  background-repeat: repeat-x;
   background-size:cover;
   animation:slideleft 20000s infinite linear;-webkit-animation:slideleft 20000s infinite linear;width:100%;
   background-color:#303030;
@@ -311,6 +312,7 @@ section.about p a:hover {
 section.about img {
   display:block;
   margin:auto;
+  height: 290px;
   border-radius: 50%;
 }
 section.about h2 {
@@ -613,10 +615,7 @@ hr {
   section.intro,.wrapper,section.about,section.projects,section.sayhello {
     border:none;
   }
-  .iama {
-  }
-  .title {
-  }
+  
   #scene {
     display:none;
   }

@@ -444,18 +444,15 @@ input[type=text]::-ms-clear {
 .loadAnim {
 	display: none;
 }
-header {
-	display: none;
-}
+
 .cd-headline img {
-	display: none;
+	width: 120px;
 }
 
-section.intro{
-      padding-top: 0px;
-      padding-bottom: 30px;
-      background: #41b0bf;
-  }
+header .alignCenter{
+	display: flex;
+    justify-content: center;
+}
 
   img {
   	width: 100%;
