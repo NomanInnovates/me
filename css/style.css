@@ -184,23 +184,7 @@ section.sayhello p {
   font-size:17px;
   margin-left:4px;
 }
-a.email:hover {
-  border-bottom:1px solid #000;
-  color:#000;
-}
-a.email {
-  float:right;
-  font-size:22px;
-  text-align:right;
-  margin-top:52px;
-  font-family:'ProximaNovaT';
-  border-bottom:1px solid #717070;
-  padding-bottom:5px;
-  color:#000;
-}
-a.email:visited {
-  color: #000;
-}
+
 section.quotes {
   background:#303030;
   border:20px solid white;
@@ -370,14 +354,7 @@ hr {
   margin:90px auto 0px auto;
   border:1px solid #eff5f7;
 }
-.project_img {
-  width:50% !important;
-  margin-top:10px !important;
-  border-radius:4px;
-  border-style:none;
-  border:0px solid !important;
-  border-color:#c0c0c0;
-}
+
 @media only screen and (min-width:40.063em) and (max-width:64em) {
   ul.menu li {
     margin-left:20px;
@@ -400,16 +377,10 @@ hr {
   }
 }
 @media only screen and (max-width:64em) {
-  .opl,.cssda {
-    display:none;
-  }
   section.intro,.wrapper,section.about,section.projects,section.sayhello {
     border:none;
   }
-  
-  #scene {
-    display:none;
-  }
+
   header.nav-down.reachedTop .wrapper {
     top:0;
   }
@@ -425,13 +396,7 @@ hr {
     margin-top:21px;
     font-size:50px;
   }
-  section.projects h1 {
-    font-size:50px;
-    text-align:center;
-  }
-  section.projects p {
-    text-align:center;
-  }
+
   .cbp-fwslider ul li>a img {
     width:100% !important;
   }
@@ -456,10 +421,6 @@ hr {
   }
   a.email,section.sayhello ul.icons {
     float:none;
-  }
-  a.email {
-    margin-top:22px;
-    display:inline-block;
   }
   section.sayhello ul.icons li:first-child {
     margin-left: 0;
@@ -554,9 +515,6 @@ span.title {
   color:#fff;
   font-size:1.4em;
 }
-
-
-
 .pad10 {
   padding:10px;
 }
