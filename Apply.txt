@@ -1,0 +1,18 @@
+Application for ReactJS Developer Position
+
+Hi Gina Padilla,
+
+
+I am Looking for Developer Job, I have  almost 2 years of experience
+
+As a ReactJS Developer, I have worked on various projects that involved building responsive and user-friendly web applications. My experience includes developing and maintaining complex React applications, writing reusable and scalable code, and ensuring the high performance and usability of the applications. I am also proficient in Next Js, Redux, React Router, Axios, and other related libraries and frameworks.
+
+
+
+My technical skills aside, I am a collaborative team player with excellent communication skills. I have worked closely with cross-functional teams including designers, developers, and project managers to deliver successful projects. I also have experience in agile methodologies and project management tools such as Jira and Trello.
+
+
+
+Sincerely,
+
+Noman Imran

@@ -62,10 +62,10 @@ var skills = [
             {"header" : "INTERESTS",
               "captions" : [
                 "Digital Marketing",
-                "Web",
                 "PWAs",
-                "Design",
-                "SEO"
+                "Web  ",
+                "Apps",
+                "Design"
               ],
               "values" : [
                 0.80,
@@ -77,10 +77,10 @@ var skills = [
             },
             {"header" : "CORE",
               "captions" : [
-                "CSS",
-                "AJAX",
+                "Responsivness",
+                "API's",
                 "HTML",
-                "jQuery",
+                "CSS",
                 "JS"
               ],
               "values" : [
@@ -93,11 +93,11 @@ var skills = [
             },
             {"header" : "Mordern Web",
               "captions" : [
-                "Vue",
-                "FusionJs",
+                "Automation Testing",
+                "Nextjs",
                 "React",
-                "Angular",
-                "Weex"
+                "Vue",
+                "Gatsby"
               ],
               "values" : [
                 0.80,
