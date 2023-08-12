@@ -5,7 +5,7 @@
 #Innovates
 NomanInnovates.
 
-NomanInnovates Personal website is Deployed to this Link [Nomi ](https://NomanInnovates.github.io/me).
+NomanInnovates Personal website is Deployed to this Link [NomanInnovates ](https://NomanInnovates.github.io/me).
 
 
 #Note
