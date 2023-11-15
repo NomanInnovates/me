@@ -55,7 +55,7 @@ $(document).ready(function() {
         //window.open("https://docs.google.com/uc?authuser=0&id=0BzUOptk4o8-NY0xOVnBKOTBDdm8&export=download","_blank");
         $(".resume").addClass("downloaded");
         $(".downloaded").removeClass("resume");
-        saveAs("SimpleCv.pdf", "Cv.pdf");
+        saveAs("Noman-Resume-2.pdf", "Noman-Resume.pdf");
        }
 // ###################################################################
 
