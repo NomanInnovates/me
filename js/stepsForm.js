@@ -5,7 +5,7 @@
  * Licensed under the MIT license.
  * http://www.opensource.org/licenses/mit-license.php
  * 
- * Copyright 2025, Codrops
+ * Copyright 2026, Nomi
  * http://www.codrops.com
  */
 ;( function( window ) {
